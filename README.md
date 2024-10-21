@@ -3,7 +3,7 @@ A collection of plugins to be used in Unreal Engine. Each of them implements a m
 
 ### Released
 - [WIP] Better First Person Character (UE 5.4) [GitHub](https://github.com/duartemv00/DMV_BetterFPChar_ue5Plugin)
-- [WIP] Puzzle Pieces (UE 5.4)
+- [WIP] Puzzle Pieces (UE 5.4) [GitHub](https://github.com/duartemv00/DMV_PuzzlePieces_uePlugin)
 
 ### Work In Progress
 - [WIP] Quest System (UE 5.4)
