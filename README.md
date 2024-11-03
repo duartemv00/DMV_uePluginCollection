@@ -3,4 +3,5 @@ A collection of plugins to be used in Unreal Engine. Each of them implements a m
 
 ### List of Plugins
 - [WIP] Better First Person Character (UE 5.4) [GitHub](https://github.com/duartemv00/DMV_BetterFPChar_uePlugin)
+- [2024] Flashlight Component (UE 5.4) [GitHub](https://github.com/duartemv00/DMV_FlashLightComp_ue5Plugin)
 - [WIP] Puzzle Pieces (UE 5.4) [GitHub](https://github.com/duartemv00/DMV_PuzzlePieces_uePlugin)
